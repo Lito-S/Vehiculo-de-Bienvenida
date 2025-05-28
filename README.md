@@ -21,6 +21,7 @@ Notificaciones elegantes con okokNotify.
 100% personalizable.
 
 🧩 Dependencias necesarias:
+
 es_extended
 
 ox_target
