@@ -26,3 +26,6 @@ es_extended
 ox_target
 
 okokNotify (opcional)
+
+![image](https://github.com/user-attachments/assets/cc4b31b6-8f2d-4b88-a02e-af255d4a3f49)
+
